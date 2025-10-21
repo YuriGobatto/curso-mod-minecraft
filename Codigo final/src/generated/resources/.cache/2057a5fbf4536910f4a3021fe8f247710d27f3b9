@@ -1,0 +1,20 @@
+// 1.20.1	2025-10-21T17:49:39.1180998	Item Models: tutorialmod
+be5d33f67802d42631c154fe4ffd21b6882f653b assets/tutorialmod/models/item/magnifying_glass.json
+26a5f0c0319e1dc3c7c5d5b5fa36501520eb08cc assets/tutorialmod/models/item/pineapple.json
+f0ce0e4187d24fc495355225756cfe7723ddafe1 assets/tutorialmod/models/item/pineapple_crown.json
+ce73624e00682bdc52f1998a7c671575b1a2594c assets/tutorialmod/models/item/pineapple_seeds.json
+dd8175fa12280ab5f11423a30ce62f43befa9a1d assets/tutorialmod/models/item/raw_ruby.json
+d07fad06b4e5a92363d8d18e034dbd6a8641d34d assets/tutorialmod/models/item/ruby.json
+829f3925c4d53b3c68f97fdfeacf39081ddae15c assets/tutorialmod/models/item/ruby_boots.json
+b22f0b099a87f1765d55e8dd19827b8f9120ea6a assets/tutorialmod/models/item/ruby_button.json
+06e280c84246afa13b1cd886296bda744c11a074 assets/tutorialmod/models/item/ruby_chestplate.json
+1504e7995c19ddcf6288a7fcb06858c0932ce1e0 assets/tutorialmod/models/item/ruby_door.json
+4a19a801e98fb8e89f84c029ba6b1121d2fd2145 assets/tutorialmod/models/item/ruby_fence.json
+2547387565f9b3d33fece8e5a81ab0427be1c70b assets/tutorialmod/models/item/ruby_fence_gate.json
+661ba68d2074521bca1f4d7193ec4bb2d9ec8b76 assets/tutorialmod/models/item/ruby_helmet.json
+c5e29d35285ac6a0a1b8da3855fd46e208058e6a assets/tutorialmod/models/item/ruby_leggings.json
+3099a76a0bbb2a689862d322c8ea1973b2d837c0 assets/tutorialmod/models/item/ruby_pressure_plate.json
+adc34350b7efaf373e4975c3758e7b880ede78cd assets/tutorialmod/models/item/ruby_slab.json
+04c7c11c68d3ad251cad98c238b2c049eee90e0b assets/tutorialmod/models/item/ruby_stairs.json
+28926c3209b0de80a200bb5e076fa2f060c1dc50 assets/tutorialmod/models/item/ruby_trapdoor.json
+b244e86a0735f34cf32f3cdba7c8f55b6a45d5b4 assets/tutorialmod/models/item/ruby_wall.json

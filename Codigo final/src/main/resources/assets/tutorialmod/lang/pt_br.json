@@ -1,0 +1,38 @@
+{
+  "item.tutorialmod.ruby": "Rubi",
+  "item.tutorialmod.raw_ruby": "Rubi Bruto",
+  "item.tutorialmod.pineapple": "Abacaxi",
+  "item.tutorialmod.magnifying_glass": "Lupa",
+  "item.tutorialmod.pineapple_crown": "Coroa do Abacaxi",
+
+  "item.tutorialmod.pineapple_seeds": "Sementes de Abacaxi",
+
+  "item.tutorialmod.ruby_helmet": "Capacete de Rubi",
+  "item.tutorialmod.ruby_chestplate": "Peitoral de Rubi",
+  "item.tutorialmod.ruby_leggings": "Calça de Rubi",
+  "item.tutorialmod.ruby_boots": "Botas de Rubi",
+
+  "block.tutorialmod.ruby_block": "Bloco de Rubi",
+  "block.tutorialmod.raw_ruby_block": "Bloco de Rubi Bruto",
+
+  "block.tutorialmod.ruby_ore": "Minério de Rubi",
+  "block.tutorialmod.deepslate_ruby_ore": "Minério de Rubi das Profundesas",
+  "block.tutorialmod.nether_ruby_ore": "Minério de Rubi do Nether",
+  "block.tutorialmod.end_stone_ruby_ore": "Minério de Rubi do Fim",
+
+  "block.tutorialmod.sound_block": "Bloco de Som",
+
+  "block.tutorialmod.ruby_stairs": "Escadas de Rubi",
+  "block.tutorialmod.ruby_slab": "Laje de Rubi",
+  "block.tutorialmod.ruby_button": "Botão de Rubi",
+  "block.tutorialmod.ruby_pressure_plate": "Placa de Pressão de Rubi",
+  "block.tutorialmod.ruby_fence": "Cerca de Rubi",
+  "block.tutorialmod.ruby_fence_gate": "Portão de Rubi",
+  "block.tutorialmod.ruby_wall": "Muro de Rubi",
+  "block.tutorialmod.ruby_door": "Porta de Rubi",
+  "block.tutorialmod.ruby_trapdoor": "Alçapão de Rubi",
+
+  "tooltip.tutorialmod.magnifying_glass.tooltip": "Encontra minérios valiosos",
+
+  "creativetab.tutorial_tab": "Tutorial Mod"
+}

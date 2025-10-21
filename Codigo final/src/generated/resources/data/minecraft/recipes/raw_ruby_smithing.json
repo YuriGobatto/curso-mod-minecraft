@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:obsidian"
+  },
+  "base": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": {
+    "item": "tutorialmod:ruby"
+  },
+  "template": {
+    "item": "tutorialmod:raw_ruby"
+  }
+}

@@ -1,0 +1,12 @@
+// 1.20.1	2025-06-20T13:52:39.5747001	Tags for minecraft:block mod id tutorialmod
+6c1256fa8cc573945533ae1df24d1eeabeba8862 data/forge/tags/blocks/needs_netherite_tool.json
+4364ea10f297c485918824844ba1f1c23066c341 data/forge/tags/blocks/ores.json
+2027697e8146c81a04b2b16b27b2b44bf4bbe316 data/minecraft/tags/blocks/fences.json
+3e82c704aea4cea5d4face5a72484097c30b66e0 data/minecraft/tags/blocks/fence_gates.json
+2f1f370d3364285b0856cbb1db45e0b22f2fccd2 data/minecraft/tags/blocks/mineable/pickaxe.json
+32704546897b676d9c11e547978f5d896e9b84e2 data/minecraft/tags/blocks/needs_diamond_tool.json
+aecb4ddc0e2005202c5640cb534ae6a6cfa8a5b2 data/minecraft/tags/blocks/needs_iron_tool.json
+f916451f7c1d1249a7190bc3525195d078bbd7b5 data/minecraft/tags/blocks/needs_stone_tool.json
+a4294123f7f371444f081e1c96232753d00441fd data/minecraft/tags/blocks/walls.json
+cb28339548a9f5c43f81c4715df14c62d24020ad data/tutorialmod/tags/blocks/magnifying_glass_valuable.json
+00ca9d376875a1ccac60b09fa1ffcb8328468dfc data/tutorialmod/tags/blocks/ores/ruby.json

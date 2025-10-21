@@ -1,0 +1,6 @@
+// 1.20.1	2025-07-20T16:39:29.3971241	Global Loot Modifiers : tutorialmod
+f3eb926443cffb9a1376657c87584ccd4488406d data/forge/loot_modifiers/global_loot_modifiers.json
+c9b91887307b09bc179b1b734275c4ed4847734a data/tutorialmod/loot_modifiers/magnifying_glass_from_jungle_temples.json
+6f9dff4310a73a21c72ab21ef1cd2432b58714ff data/tutorialmod/loot_modifiers/magnifying_glass_from_suspicious_sand.json
+625191b43cac2ee5583e0f212e8f3946ef6f9b67 data/tutorialmod/loot_modifiers/pineapple_crown_from_creeper.json
+2f9aa4db631e6cccc723408d1b62644ce7a6153c data/tutorialmod/loot_modifiers/pineapple_crown_from_grass.json
